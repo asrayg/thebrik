@@ -22,7 +22,6 @@ import bro from './17.jpg';
 import bro1 from './18.JPG'; 
 import bro2 from './19.JPG'; 
 import bro3 from './20.jpg';
-import banner from './banner.png'
 
 function App() {
   return (
