@@ -148,6 +148,32 @@ function App() {
         </div>
       </section>
 
+
+            {/* Future Add-ons Section */}
+            <section className="holders">
+        <div className="container">
+          <h2>Holders by keychain - Coming Soon</h2>
+          <div className="product-grid">
+            <div className="product-item">
+              <img src={whistle} alt="Carabiner" />
+              <h3>Brik Carbiner</h3>
+              <p>$10</p>
+            </div>
+            <div className="product-item">
+              <img src={tool} alt="Chapstick Holder" />
+              <h3>Chapstick Attachment</h3>
+              <p>$10</p>
+            </div>
+            <div className="product-item">
+              <img src={clip} alt="Airpods Holder" />
+              <h3>Airpods Chain</h3>
+              <p>$10</p>
+            </div>
+            {/* Repeat for other future add-ons */}
+          </div>
+        </div>
+      </section>
+
       {/* Our Story Section */}
       <section className="our-story">
         <div className="container">
