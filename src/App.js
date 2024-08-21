@@ -152,7 +152,7 @@ function App() {
             {/* Future Add-ons Section */}
             <section className="holders">
         <div className="container">
-          <h2>Holders by keychain - Coming Soon</h2>
+          <h2>Keychain Holders - Coming Soon</h2>
           <div className="product-grid">
             <div className="product-item">
               <img src={whistle} alt="Carabiner" />
